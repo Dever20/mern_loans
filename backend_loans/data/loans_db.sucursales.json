@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "name": "Tijuana",
+    "iva": "8%"
+  },
+  {
+    "id": 2,
+    "name": "Nuevo Leon",
+    "iva": "16%"
+  },
+  {
+    "id": 3,
+    "name": "Tamaulipas",
+    "iva": "10%"
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "client": "911ac37c-5990-4bf8-8cf0-b51f21c8ecbe",
+    "id": 1,
+    "date_loan": "2021-01-15",
+    "amount": "37500",
+    "status": "Pendiente",
+    "idSucursal": 3
+  },
+  {
+    "client": "911ac37c-5990-4bf8-8cf0-b51f21c8ecbe",
+    "id": 2,
+    "date_loan": "2021-01-24",
+    "amount": "725.18",
+    "status": "Pendiente",
+    "idSucursal": 3
+  },
+  {
+    "client": "911ac37c-5990-4bf8-8cf0-b51f21c8ecbe",
+    "id": 3,
+    "date_loan": "2021-02-05",
+    "amount": "1578.22",
+    "status": "Pendiente",
+    "idSucursal": 3
+  },
+  {
+    "client": "911ac37c-5990-4bf8-8cf0-b51f21c8ecbe",
+    "id": 4,
+    "date_loan": "2021-02-09",
+    "amount": "380",
+    "status": "Pendiente",
+    "idSucursal": 3
+  },
+  {
+    "client": "8482bcae-0b2b-45bb-9012-59ec93978265",
+    "id": 1,
+    "date_loan": "2021-01-12",
+    "amount": "2175.25",
+    "status": "Pagado",
+    "idSucursal": 2
+  },
+  {
+    "client": "8482bcae-0b2b-45bb-9012-59ec93978265",
+    "id": 2,
+    "date_loan": "2021-01-18",
+    "amount": "499.99",
+    "status": "Pagado",
+    "idSucursal": 2
+  },
+  {
+    "client": "8482bcae-0b2b-45bb-9012-59ec93978265",
+    "id": 3,
+    "date_loan": "2021-01-29",
+    "amount": "5725.18",
+    "status": "Pendiente",
+    "idSucursal": 2
+  },
+  {
+    "client": "8482bcae-0b2b-45bb-9012-59ec93978265",
+    "id": 4,
+    "date_loan": "2021-02-12",
+    "amount": "876.13",
+    "status": "Pendiente",
+    "idSucursal": 2
+  },
+  {
+    "client": "78be3a77-698d-43ef-b113-a598eb1fb791",
+    "id": 1,
+    "date_loan": "2021-02-09",
+    "amount": "545.55",
+    "status": "Pendiente",
+    "idSucursal": 1
+  },
+  {
+    "client": "cee008ca-c715-456b-96c6-74ff9bd22dd3",
+    "id": 1,
+    "date_loan": "2020-12-31",
+    "amount": "15220",
+    "status": "Pagado",
+    "idSucursal": 1
+  }
+]

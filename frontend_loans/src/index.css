@@ -1,0 +1,90 @@
+:root {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+body {
+  margin: 0;
+}
+
+h2 {
+  text-align: center;
+  color: white;
+  padding-left: 30px;
+}
+
+.container-loans {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.navbar {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: row;
+  background-color: #4b84aa;
+  width: 100%;
+  text-align: center;
+}
+
+.view-loans {
+  margin-top: 20px;
+  width: 80%;
+}
+
+.group-button {
+  display: flex;
+  flex-direction: row;
+  justify-content: end;
+  align-items: end;
+  width: 100%;
+  padding: 10px;
+}
+
+
+button {
+  padding: 10px;
+  margin: 10px;
+  border: solid 3px black;
+  background-color: #58b3f0;
+  color: white;
+  cursor: pointer;
+  width: 200px;
+  font-size: 20px;
+}
+
+button:hover {
+  background-color: #6588a0;
+}
+
+
+.loans {
+  width: 100%;
+
+  border-collapse: collapse;
+}
+
+.loans td,
+.loans th {
+  border: 1px solid #ddd;
+  padding: 8px;
+  cursor: pointer;
+}
+
+.loans tr:nth-child(even) {
+  background-color: #f2f2f2;
+}
+
+.loans tr:hover {
+  background-color: #ddd;
+}
+
+.loans th {
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: left;
+  background-color: #4b84aa;
+  color: white;
+}

@@ -1,0 +1,22 @@
+[
+  {
+    "client": "911ac37c-5990-4bf8-8cf0-b51f21c8ecbe",
+    "amount": "15375.28",
+    "status": "Activa"
+  },
+  {
+    "client": "8482bcae-0b2b-45bb-9012-59ec93978265",
+    "amount": "3728.51",
+    "status": "Bloqueada"
+  },
+  {
+    "client": "78be3a77-698d-43ef-b113-a598eb1fb791",
+    "amount": "0",
+    "status": "Cancelada"
+  },
+  {
+    "client": "cee008ca-c715-456b-96c6-74ff9bd22dd3",
+    "amount": "235.28",
+    "status": "Activa"
+  }
+]
